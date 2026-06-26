@@ -1,0 +1,11 @@
+{
+  "name": "void-ticket-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "tweetnacl": "^1.0.3"
+  },
+  "engines": { "node": ">=18" }
+}
